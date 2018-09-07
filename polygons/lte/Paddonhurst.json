@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Paddonhurst",
+                    "Description": "<b>Name:<\/b> Paddonhurst<br\/><b>Longitude:<\/b> 28.59808<br\/><b>Latitude:<\/b> -20.14061<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.59808, -20.14061, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Damofalls",
+                    "Description": "<b>Name:<\/b> Damofalls<br\/><b>Longitude:<\/b> 31.2355917<br\/><b>Latitude:<\/b> -17.8598722<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.2355917, -17.8598722, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Belmont",
+                    "Description": "<b>Name:<\/b> Belmont<br\/><b>Longitude:<\/b> 28.574111<br\/><b>Latitude:<\/b> -20.171056<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.574111, -20.171056, 0.0]
+                }
+            }
+        ]
+    }

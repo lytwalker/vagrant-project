@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mufakose Tendai School",
+                    "Description": "<b>Name:<\/b> Mufakose Tendai School<br\/><b>Longitude:<\/b> 30.9238611<br\/><b>Latitude:<\/b> -17.8653889<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9238611, -17.8653889, 0.0]
+                }
+            }
+        ]
+    }

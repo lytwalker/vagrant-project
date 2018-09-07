@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Carribea Bay",
+                    "Description": "<b>Name:<\/b> Carribea Bay<br\/><b>Longitude:<\/b> 28.7956611<br\/><b>Latitude:<\/b> -16.5334<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.7956611, -16.5334, 0.0]
+                }
+            }
+        ]
+    }

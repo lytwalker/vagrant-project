@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Triangle",
+                    "Description": "<b>Name:<\/b> Triangle<br\/><b>Longitude:<\/b> 31.438917<br\/><b>Latitude:<\/b> -21.028028<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.438917, -21.028028, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hillcrest",
+                    "Description": "<b>Name:<\/b> Hillcrest<br\/><b>Longitude:<\/b> 28.58817<br\/><b>Latitude:<\/b> -20.18566<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.58817, -20.18566, 0.0]
+                }
+            }
+        ]
+    }

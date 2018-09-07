@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Twinlakes",
+                    "Description": "<b>Name:<\/b> Twinlakes<br\/><b>Longitude:<\/b> 30.7<br\/><b>Latitude:<\/b> -17.8717<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.7, -17.8717, 0.0]
+                }
+            }
+        ]
+    }

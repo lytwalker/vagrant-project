@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nkulumane 2",
+                    "Description": "<b>Name:<\/b> Nkulumane 2<br\/><b>Longitude:<\/b> 28.4924917<br\/><b>Latitude:<\/b> -20.1848889<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.4924917, -20.1848889, 0.0]
+                }
+            }
+        ]
+    }

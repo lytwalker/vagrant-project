@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hillside 2 Bulawayo",
+                    "Description": "<b>Name:<\/b> Hillside 2 Bulawayo<br\/><b>Longitude:<\/b> 28.59708<br\/><b>Latitude:<\/b> -20.20137<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.59708, -20.20137, 0.0]
+                }
+            }
+        ]
+    }

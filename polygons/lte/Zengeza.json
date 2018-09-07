@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Zengeza",
+                    "Description": "<b>Name:<\/b> Zengeza<br\/><b>Longitude:<\/b> 31.05094<br\/><b>Latitude:<\/b> -18.005004<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.05094, -18.005004, 0.0]
+                }
+            }
+        ]
+    }

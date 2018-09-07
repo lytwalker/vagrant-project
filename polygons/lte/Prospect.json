@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Prospect",
+                    "Description": "<b>Name:<\/b> Prospect<br\/><b>Longitude:<\/b> 31.05169<br\/><b>Latitude:<\/b> -17.894694<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.05169, -17.894694, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hwange",
+                    "Description": "<b>Name:<\/b> Hwange<br\/><b>Longitude:<\/b> 26.51038<br\/><b>Latitude:<\/b> -18.35867<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [26.51038, -18.35867, 0.0]
+                }
+            }
+        ]
+    }

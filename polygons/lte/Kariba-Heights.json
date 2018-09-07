@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kariba Heights",
+                    "Description": "<b>Name:<\/b> Kariba Heights<br\/><b>Longitude:<\/b> 28.80015<br\/><b>Latitude:<\/b> -16.52538<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.80015, -16.52538, 0.0]
+                }
+            }
+        ]
+    }

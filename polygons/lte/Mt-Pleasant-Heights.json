@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mt Pleasant Heights",
+                    "Description": "<b>Name:<\/b> Mt Pleasant Heights<br\/><b>Longitude:<\/b> 31.04008<br\/><b>Latitude:<\/b> -17.73095<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.04008, -17.73095, 0.0]
+                }
+            }
+        ]
+    }

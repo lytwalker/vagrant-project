@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Christon Bank (337)",
+                    "Description": "<b>Name:<\/b> Christon Bank (337)<br\/><b>Longitude:<\/b> 31.0119722<br\/><b>Latitude:<\/b> -17.6019444<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0119722, -17.6019444, 0.0]
+                }
+            }
+        ]
+    }

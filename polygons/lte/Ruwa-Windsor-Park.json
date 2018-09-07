@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Ruwa Windsor Park",
+                    "Description": "<b>Name:<\/b> Ruwa Windsor Park<br\/><b>Longitude:<\/b> 31.21661<br\/><b>Latitude:<\/b> -17.892084<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.21661, -17.892084, 0.0]
+                }
+            }
+        ]
+    }

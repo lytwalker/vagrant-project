@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Ruwa",
+                    "Description": "<b>Name:<\/b> Ruwa<br\/><b>Longitude:<\/b> 31.241316<br\/><b>Latitude:<\/b> -17.888949<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.241316, -17.888949, 0.0]
+                }
+            }
+        ]
+    }

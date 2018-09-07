@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Westgate Uplands",
+                    "Description": "<b>Name:<\/b> Westgate Uplands<br\/><b>Longitude:<\/b> 28.5512167<br\/><b>Latitude:<\/b> -20.1668222<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5512167, -20.1668222, 0.0]
+                }
+            }
+        ]
+    }

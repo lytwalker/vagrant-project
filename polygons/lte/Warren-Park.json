@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Warren Park",
+                    "Description": "<b>Name:<\/b> Warren Park<br\/><b>Longitude:<\/b> 30.9805122<br\/><b>Latitude:<\/b> -17.8335431<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9805122, -17.8335431, 0.0]
+                }
+            }
+        ]
+    }

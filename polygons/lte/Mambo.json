@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mambo",
+                    "Description": "<b>Name:<\/b> Mambo<br\/><b>Longitude:<\/b> 29.80015<br\/><b>Latitude:<\/b> -19.444371<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.80015, -19.444371, 0.0]
+                }
+            }
+        ]
+    }

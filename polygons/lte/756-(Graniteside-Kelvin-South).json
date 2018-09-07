@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "756 (Graniteside Kelvin South)",
+                    "Description": "<b>Name:<\/b> 756 (Graniteside Kelvin South)<br\/><b>Longitude:<\/b> 31.04861<br\/><b>Latitude:<\/b> -17.86461<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.04861, -17.86461, 0.0]
+                }
+            }
+        ]
+    }

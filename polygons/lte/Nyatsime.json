@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nyatsime",
+                    "Description": "<b>Name:<\/b> Nyatsime<br\/><b>Longitude:<\/b> 31.08175<br\/><b>Latitude:<\/b> -18.002194<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.08175, -18.002194, 0.0]
+                }
+            }
+        ]
+    }

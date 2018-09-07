@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kelvin",
+                    "Description": "<b>Name:<\/b> Kelvin<br\/><b>Longitude:<\/b> 28.5185056<br\/><b>Latitude:<\/b> -20.1585611<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5185056, -20.1585611, 0.0]
+                }
+            }
+        ]
+    }

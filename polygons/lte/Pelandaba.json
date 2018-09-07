@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Pelandaba",
+                    "Description": "<b>Name:<\/b> Pelandaba<br\/><b>Longitude:<\/b> 28.51875<br\/><b>Latitude:<\/b> -20.152639<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.51875, -20.152639, 0.0]
+                }
+            }
+        ]
+    }

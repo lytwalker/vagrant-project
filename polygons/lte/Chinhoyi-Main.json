@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chinhoyi Main",
+                    "Description": "<b>Name:<\/b> Chinhoyi Main<br\/><b>Longitude:<\/b> 30.19045<br\/><b>Latitude:<\/b> -17.38253<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.19045, -17.38253, 0.0]
+                }
+            }
+        ]
+    }

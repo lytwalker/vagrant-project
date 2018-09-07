@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kambuzuma Main",
+                    "Description": "<b>Name:<\/b> Kambuzuma Main<br\/><b>Longitude:<\/b> 30.969348<br\/><b>Latitude:<\/b> -17.85419<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.969348, -17.85419, 0.0]
+                }
+            }
+        ]
+    }

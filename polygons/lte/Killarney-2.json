@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Killarney 2",
+                    "Description": "<b>Name:<\/b> Killarney 2<br\/><b>Longitude:<\/b> 28.652475<br\/><b>Latitude:<\/b> -20.1368639<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.652475, -20.1368639, 0.0]
+                }
+            }
+        ]
+    }

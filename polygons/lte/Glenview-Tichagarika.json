@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Glenview Tichagarika",
+                    "Description": "<b>Name:<\/b> Glenview Tichagarika<br\/><b>Longitude:<\/b> 30.94911<br\/><b>Latitude:<\/b> -17.896695<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.94911, -17.896695, 0.0]
+                }
+            }
+        ]
+    }

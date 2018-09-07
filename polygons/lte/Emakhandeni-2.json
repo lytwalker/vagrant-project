@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Emakhandeni 2",
+                    "Description": "<b>Name:<\/b> Emakhandeni 2<br\/><b>Longitude:<\/b> 28.5266<br\/><b>Latitude:<\/b> -20.11974<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5266, -20.11974, 0.0]
+                }
+            }
+        ]
+    }

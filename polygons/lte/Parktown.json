@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Parktown",
+                    "Description": "<b>Name:<\/b> Parktown<br\/><b>Longitude:<\/b> 31.031542<br\/><b>Latitude:<\/b> -17.893838<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.031542, -17.893838, 0.0]
+                }
+            }
+        ]
+    }

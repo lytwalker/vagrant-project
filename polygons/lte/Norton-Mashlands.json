@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Norton Mashlands",
+                    "Description": "<b>Name:<\/b> Norton Mashlands<br\/><b>Longitude:<\/b> 30.6486<br\/><b>Latitude:<\/b> -17.87653<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.6486, -17.87653, 0.0]
+                }
+            }
+        ]
+    }

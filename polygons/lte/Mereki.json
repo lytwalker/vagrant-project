@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mereki",
+                    "Description": "<b>Name:<\/b> Mereki<br\/><b>Longitude:<\/b> 30.956639<br\/><b>Latitude:<\/b> -17.839333<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.956639, -17.839333, 0.0]
+                }
+            }
+        ]
+    }

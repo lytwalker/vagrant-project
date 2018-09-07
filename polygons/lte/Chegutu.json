@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chegutu",
+                    "Description": "<b>Name:<\/b> Chegutu<br\/><b>Longitude:<\/b> 30.1482<br\/><b>Latitude:<\/b> -18.13521<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.1482, -18.13521, 0.0]
+                }
+            }
+        ]
+    }

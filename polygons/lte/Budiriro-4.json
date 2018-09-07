@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Budiriro 4",
+                    "Description": "<b>Name:<\/b> Budiriro 4<br\/><b>Longitude:<\/b> 30.915325<br\/><b>Latitude:<\/b> -17.8886917<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.915325, -17.8886917, 0.0]
+                }
+            }
+        ]
+    }

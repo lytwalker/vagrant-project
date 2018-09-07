@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hwange Baobab",
+                    "Description": "<b>Name:<\/b> Hwange Baobab<br\/><b>Longitude:<\/b> 26.503306<br\/><b>Latitude:<\/b> -18.345389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [26.503306, -18.345389, 0.0]
+                }
+            }
+        ]
+    }

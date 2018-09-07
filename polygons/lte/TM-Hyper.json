@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "TM Hyper",
+                    "Description": "<b>Name:<\/b> TM Hyper<br\/><b>Longitude:<\/b> 28.57928<br\/><b>Latitude:<\/b> -20.1575<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.57928, -20.1575, 0.0]
+                }
+            }
+        ]
+    }

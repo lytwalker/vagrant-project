@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gweru Northleigh",
+                    "Description": "<b>Name:<\/b> Gweru Northleigh<br\/><b>Longitude:<\/b> 29.8145333<br\/><b>Latitude:<\/b> -19.4353972<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8145333, -19.4353972, 0.0]
+                }
+            }
+        ]
+    }

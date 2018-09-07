@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nketa",
+                    "Description": "<b>Name:<\/b> Nketa<br\/><b>Longitude:<\/b> 28.52905<br\/><b>Latitude:<\/b> -20.20595<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.52905, -20.20595, 0.0]
+                }
+            }
+        ]
+    }

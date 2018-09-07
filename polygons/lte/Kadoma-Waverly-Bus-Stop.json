@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kadoma Waverly Bus Stop",
+                    "Description": "<b>Name:<\/b> Kadoma Waverly Bus Stop<br\/><b>Longitude:<\/b> 29.9164<br\/><b>Latitude:<\/b> -18.3403<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.9164, -18.3403, 0.0]
+                }
+            }
+        ]
+    }

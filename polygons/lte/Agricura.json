@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Agricura",
+                    "Description": "<b>Name:<\/b> Agricura<br\/><b>Longitude:<\/b> 31.020045<br\/><b>Latitude:<\/b> -17.853958<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.020045, -17.853958, 0.0]
+                }
+            }
+        ]
+    }

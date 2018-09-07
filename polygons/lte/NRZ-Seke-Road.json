@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "NRZ Seke Road",
+                    "Description": "<b>Name:<\/b> NRZ Seke Road<br\/><b>Longitude:<\/b> 31.049139<br\/><b>Latitude:<\/b> -17.837278<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.049139, -17.837278, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mahatshula",
+                    "Description": "<b>Name:<\/b> Mahatshula<br\/><b>Longitude:<\/b> 28.63379<br\/><b>Latitude:<\/b> -20.11272<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.63379, -20.11272, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mkoba",
+                    "Description": "<b>Name:<\/b> Mkoba<br\/><b>Longitude:<\/b> 29.7531111<br\/><b>Latitude:<\/b> -19.4596111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.7531111, -19.4596111, 0.0]
+                }
+            }
+        ]
+    }

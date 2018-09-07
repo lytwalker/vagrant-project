@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "ZESA Ardbennie",
+                    "Description": "<b>Name:<\/b> ZESA Ardbennie<br\/><b>Longitude:<\/b> 31.0099722<br\/><b>Latitude:<\/b> -17.8762222<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0099722, -17.8762222, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Norton Industries",
+                    "Description": "<b>Name:<\/b> Norton Industries<br\/><b>Longitude:<\/b> 30.691889<br\/><b>Latitude:<\/b> -17.875167<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.691889, -17.875167, 0.0]
+                }
+            }
+        ]
+    }

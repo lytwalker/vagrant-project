@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kadoma Water Tanks",
+                    "Description": "<b>Name:<\/b> Kadoma Water Tanks<br\/><b>Longitude:<\/b> 29.9077<br\/><b>Latitude:<\/b> -18.33501<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.9077, -18.33501, 0.0]
+                }
+            }
+        ]
+    }

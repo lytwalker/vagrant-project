@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Winston Park Marondera",
+                    "Description": "<b>Name:<\/b> Winston Park Marondera<br\/><b>Longitude:<\/b> 31.5261694<br\/><b>Latitude:<\/b> -18.1874389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.5261694, -18.1874389, 0.0]
+                }
+            }
+        ]
+    }

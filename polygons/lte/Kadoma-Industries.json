@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kadoma Industries",
+                    "Description": "<b>Name:<\/b> Kadoma Industries<br\/><b>Longitude:<\/b> 29.9094444<br\/><b>Latitude:<\/b> -18.3536111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.9094444, -18.3536111, 0.0]
+                }
+            }
+        ]
+    }

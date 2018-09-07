@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Pumula South",
+                    "Description": "<b>Name:<\/b> Pumula South<br\/><b>Longitude:<\/b> 28.4661167<br\/><b>Latitude:<\/b> -20.1527<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.4661167, -20.1527, 0.0]
+                }
+            }
+        ]
+    }

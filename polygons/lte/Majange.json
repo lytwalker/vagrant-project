@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Majange",
+                    "Description": "<b>Name:<\/b> Majange<br\/><b>Longitude:<\/b> 30.82258<br\/><b>Latitude:<\/b> -20.100556<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.82258, -20.100556, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Frog Field Industries",
+                    "Description": "<b>Name:<\/b> Frog Field Industries<br\/><b>Longitude:<\/b> 29.8128611<br\/><b>Latitude:<\/b> -19.44805<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8128611, -19.44805, 0.0]
+                }
+            }
+        ]
+    }

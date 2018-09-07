@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Seke Trs College",
+                    "Description": "<b>Name:<\/b> Seke Trs College<br\/><b>Longitude:<\/b> 31.11039<br\/><b>Latitude:<\/b> -18.021114<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.11039, -18.021114, 0.0]
+                }
+            }
+        ]
+    }

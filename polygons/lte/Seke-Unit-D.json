@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Seke Unit D",
+                    "Description": "<b>Name:<\/b> Seke Unit D<br\/><b>Longitude:<\/b> 31.0835194<br\/><b>Latitude:<\/b> -18.0154111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0835194, -18.0154111, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chinotimba",
+                    "Description": "<b>Name:<\/b> Chinotimba<br\/><b>Longitude:<\/b> 25.8271389<br\/><b>Latitude:<\/b> -17.9420556<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [25.8271389, -17.9420556, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mpopoma South",
+                    "Description": "<b>Name:<\/b> Mpopoma South<br\/><b>Longitude:<\/b> 28.5364639<br\/><b>Latitude:<\/b> -20.1465222<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5364639, -20.1465222, 0.0]
+                }
+            }
+        ]
+    }

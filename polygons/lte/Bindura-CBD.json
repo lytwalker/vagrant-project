@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Bindura CBD",
+                    "Description": "<b>Name:<\/b> Bindura CBD<br\/><b>Longitude:<\/b> 31.331<br\/><b>Latitude:<\/b> -17.307722<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.331, -17.307722, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Cowdray",
+                    "Description": "<b>Name:<\/b> Cowdray<br\/><b>Longitude:<\/b> 28.4903889<br\/><b>Latitude:<\/b> -20.078<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.4903889, -20.078, 0.0]
+                }
+            }
+        ]
+    }

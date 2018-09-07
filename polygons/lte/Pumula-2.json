@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Pumula 2",
+                    "Description": "<b>Name:<\/b> Pumula 2<br\/><b>Longitude:<\/b> 28.49316<br\/><b>Latitude:<\/b> -20.14518<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.49316, -20.14518, 0.0]
+                }
+            }
+        ]
+    }

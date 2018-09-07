@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Redcliff Primary School",
+                    "Description": "<b>Name:<\/b> Redcliff Primary School<br\/><b>Longitude:<\/b> 29.7839<br\/><b>Latitude:<\/b> -19.0277806<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.7839, -19.0277806, 0.0]
+                }
+            }
+        ]
+    }

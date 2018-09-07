@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Bulawayo NRZ",
+                    "Description": "<b>Name:<\/b> Bulawayo NRZ<br\/><b>Longitude:<\/b> 28.584514<br\/><b>Latitude:<\/b> -20.157414<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.584514, -20.157414, 0.0]
+                }
+            }
+        ]
+    }

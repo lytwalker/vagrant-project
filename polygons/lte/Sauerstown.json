@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Sauerstown",
+                    "Description": "<b>Name:<\/b> Sauerstown<br\/><b>Longitude:<\/b> 28.5908056<br\/><b>Latitude:<\/b> -20.1113361<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5908056, -20.1113361, 0.0]
+                }
+            }
+        ]
+    }

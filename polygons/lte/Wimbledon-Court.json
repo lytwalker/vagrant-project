@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Wimbledon Court",
+                    "Description": "<b>Name:<\/b> Wimbledon Court<br\/><b>Longitude:<\/b> 31.05822<br\/><b>Latitude:<\/b> -17.82395<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.05822, -17.82395, 0.0]
+                }
+            }
+        ]
+    }

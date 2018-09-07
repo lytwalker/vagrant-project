@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Dzivarasekwa Extension",
+                    "Description": "<b>Name:<\/b> Dzivarasekwa Extension<br\/><b>Longitude:<\/b> 30.9138056<br\/><b>Latitude:<\/b> -17.7858611<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9138056, -17.7858611, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Seke South",
+                    "Description": "<b>Name:<\/b> Seke South<br\/><b>Longitude:<\/b> 31.0759<br\/><b>Latitude:<\/b> -18.0338<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0759, -18.0338, 0.0]
+                }
+            }
+        ]
+    }

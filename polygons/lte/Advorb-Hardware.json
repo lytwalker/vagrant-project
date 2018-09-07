@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Advorb Hardware",
+                    "Description": "<b>Name:<\/b> Advorb Hardware<br\/><b>Longitude:<\/b> 28.5801167<br\/><b>Latitude:<\/b> -20.1632833<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5801167, -20.1632833, 0.0]
+                }
+            }
+        ]
+    }

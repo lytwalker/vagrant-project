@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Rutendo",
+                    "Description": "<b>Name:<\/b> Rutendo<br\/><b>Longitude:<\/b> 29.780219<br\/><b>Latitude:<\/b> -19.006613<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.780219, -19.006613, 0.0]
+                }
+            }
+        ]
+    }

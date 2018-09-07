@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Dangamvura 4",
+                    "Description": "<b>Name:<\/b> Dangamvura 4<br\/><b>Longitude:<\/b> 32.608644<br\/><b>Latitude:<\/b> -19.010825<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.608644, -19.010825, 0.0]
+                }
+            }
+        ]
+    }

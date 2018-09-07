@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Tshabalala",
+                    "Description": "<b>Name:<\/b> Tshabalala<br\/><b>Longitude:<\/b> 28.53619<br\/><b>Latitude:<\/b> -20.17494<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.53619, -20.17494, 0.0]
+                }
+            }
+        ]
+    }

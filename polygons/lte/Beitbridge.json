@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Beitbridge",
+                    "Description": "<b>Name:<\/b> Beitbridge<br\/><b>Longitude:<\/b> 29.99709<br\/><b>Latitude:<\/b> -22.19398<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.99709, -22.19398, 0.0]
+                }
+            }
+        ]
+    }

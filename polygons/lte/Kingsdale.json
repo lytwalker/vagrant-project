@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kingsdale",
+                    "Description": "<b>Name:<\/b> Kingsdale<br\/><b>Longitude:<\/b> 28.60971<br\/><b>Latitude:<\/b> -20.1013<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.60971, -20.1013, 0.0]
+                }
+            }
+        ]
+    }

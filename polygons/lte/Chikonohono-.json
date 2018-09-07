@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chikonohono ",
+                    "Description": "<b>Name:<\/b> Chikonohono <br\/><b>Longitude:<\/b> 30.199679<br\/><b>Latitude:<\/b> -17.388436<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.199679, -17.388436, 0.0]
+                }
+            }
+        ]
+    }

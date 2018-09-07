@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hwange Mpumalamga",
+                    "Description": "<b>Name:<\/b> Hwange Mpumalamga<br\/><b>Longitude:<\/b> 26.5180556<br\/><b>Latitude:<\/b> -18.3286111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [26.5180556, -18.3286111, 0.0]
+                }
+            }
+        ]
+    }

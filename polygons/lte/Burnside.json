@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Burnside",
+                    "Description": "<b>Name:<\/b> Burnside<br\/><b>Longitude:<\/b> 28.59321<br\/><b>Latitude:<\/b> -20.21944<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.59321, -20.21944, 0.0]
+                }
+            }
+        ]
+    }

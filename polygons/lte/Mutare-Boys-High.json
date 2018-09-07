@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mutare Boys High",
+                    "Description": "<b>Name:<\/b> Mutare Boys High<br\/><b>Longitude:<\/b> 32.689039<br\/><b>Latitude:<\/b> -18.9622111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.689039, -18.9622111, 0.0]
+                }
+            }
+        ]
+    }

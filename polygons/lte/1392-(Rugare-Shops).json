@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "1392 (Rugare Shops)",
+                    "Description": "<b>Name:<\/b> 1392 (Rugare Shops)<br\/><b>Longitude:<\/b> 30.98875<br\/><b>Latitude:<\/b> -17.8563333<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.98875, -17.8563333, 0.0]
+                }
+            }
+        ]
+    }

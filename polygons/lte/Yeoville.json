@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Yeoville",
+                    "Description": "<b>Name:<\/b> Yeoville<br\/><b>Longitude:<\/b> 32.6524444<br\/><b>Latitude:<\/b> -18.9730278<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.6524444, -18.9730278, 0.0]
+                }
+            }
+        ]
+    }

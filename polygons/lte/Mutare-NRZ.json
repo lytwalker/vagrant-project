@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mutare NRZ",
+                    "Description": "<b>Name:<\/b> Mutare NRZ<br\/><b>Longitude:<\/b> 32.6644722<br\/><b>Latitude:<\/b> -18.9834444<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.6644722, -18.9834444, 0.0]
+                }
+            }
+        ]
+    }

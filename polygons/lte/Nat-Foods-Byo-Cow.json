@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nat Foods Byo Cow",
+                    "Description": "<b>Name:<\/b> Nat Foods Byo Cow<br\/><b>Longitude:<\/b> 28.5641667<br\/><b>Latitude:<\/b> -20.1575<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5641667, -20.1575, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kuwadzana 1",
+                    "Description": "<b>Name:<\/b> Kuwadzana 1<br\/><b>Longitude:<\/b> 30.9381111<br\/><b>Latitude:<\/b> -17.8338333<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9381111, -17.8338333, 0.0]
+                }
+            }
+        ]
+    }

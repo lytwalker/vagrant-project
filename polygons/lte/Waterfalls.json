@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Waterfalls",
+                    "Description": "<b>Name:<\/b> Waterfalls<br\/><b>Longitude:<\/b> 31.01156<br\/><b>Latitude:<\/b> -17.925505<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.01156, -17.925505, 0.0]
+                }
+            }
+        ]
+    }

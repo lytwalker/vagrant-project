@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Ivene Gweru",
+                    "Description": "<b>Name:<\/b> Ivene Gweru<br\/><b>Longitude:<\/b> 29.8049<br\/><b>Latitude:<\/b> -19.4927389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8049, -19.4927389, 0.0]
+                }
+            }
+        ]
+    }

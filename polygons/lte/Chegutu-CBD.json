@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chegutu CBD",
+                    "Description": "<b>Name:<\/b> Chegutu CBD<br\/><b>Longitude:<\/b> 30.1422222<br\/><b>Latitude:<\/b> -18.1322222<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.1422222, -18.1322222, 0.0]
+                }
+            }
+        ]
+    }

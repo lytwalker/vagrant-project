@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hatfield",
+                    "Description": "<b>Name:<\/b> Hatfield<br\/><b>Longitude:<\/b> 31.101361<br\/><b>Latitude:<\/b> -17.890972<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.101361, -17.890972, 0.0]
+                }
+            }
+        ]
+    }

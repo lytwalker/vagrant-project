@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Club Chambers",
+                    "Description": "<b>Name:<\/b> Club Chambers<br\/><b>Longitude:<\/b> 31.053<br\/><b>Latitude:<\/b> -17.828369<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.053, -17.828369, 0.0]
+                }
+            }
+        ]
+    }

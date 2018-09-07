@@ -1,0 +1,118 @@
+h1,h2,h3,h3,h5,h6{
+	color: #000;
+}
+.toggle a{
+	color: #000;
+}
+a{
+	color: #f58220;
+}
+a:hover{
+	color: #f7941d;
+}
+
+div.overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 999;
+    display: none;
+}
+div.overlay .overlayWrapper,
+div.overlay .overlayWrapper tbody,
+div.overlay .overlayWrapper tr {
+    width: 100%;
+    height: 100%;
+}
+div.overlay .overlayWrapper td {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+div.overlay .overlayWrapper .alert {
+    width: 300px;
+    padding: 20px 15px 15px;
+    background: #fff;
+    margin: 0 auto;
+    border-radius: 3px;
+    position: relative;
+    display: inline-block;
+}
+div.overlay .overlayWrapper h6 {
+    color: #f58220;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin: 0;
+    padding-bottom: 10px;
+    text-align: center;
+}
+div.overlay .overlayWrapper .message {
+    border-top: #999 solid 1px;
+    border-bottom: #999 solid 1px;
+    padding: 5px 0;
+}
+.alert span {
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.profile_pic{
+	text-align: center;
+	width: 100%;
+	float: none;
+	padding-top: 15px;
+}
+.left_col{
+	background: #293896;
+}
+.btn-primary{
+	border: none;
+    background-color: #f7941d;
+    color: #fff !important;
+}
+.btn-primary.active.focus, .btn-primary.active:focus, 
+.btn-primary.active:hover, .btn-primary:active.focus, 
+.btn-primary:active:focus, .btn-primary:active:hover, 
+.open>.dropdown-toggle.btn-primary.focus, 
+.open>.dropdown-toggle.btn-primary:focus, 
+.open>.dropdown-toggle.btn-primary:hover,
+.btn-primary:hover,.btn-primary.active, .btn-primary:active, 
+.open>.dropdown-toggle.btn-primary,.btn-primary.focus, .btn-primary:focus{
+	border: none;
+    background-color: #f36c26;
+    color: #fff !important;
+}
+.nav.side-menu>li.active>a{
+	background: #262262;
+}
+td.decomissioned span{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	border-radius: 15px;
+	cursor: pointer;
+}
+td.decomissioned span.live{
+	background: green;
+}
+td.decomissioned span.off{
+	background: #ddd;
+}
+td.action a{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 20px;	
+	color: #fff;	
+	background: #f58220;
+}
+td.action a.delete{
+	background: red;
+}

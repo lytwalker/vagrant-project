@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "MacDonald Club",
+                    "Description": "<b>Name:<\/b> MacDonald Club<br\/><b>Longitude:<\/b> 28.59651<br\/><b>Latitude:<\/b> -20.15099<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.59651, -20.15099, 0.0]
+                }
+            }
+        ]
+    }

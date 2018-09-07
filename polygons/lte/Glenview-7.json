@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Glenview 7",
+                    "Description": "<b>Name:<\/b> Glenview 7<br\/><b>Longitude:<\/b> 30.9546667<br\/><b>Latitude:<\/b> -17.9185<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9546667, -17.9185, 0.0]
+                }
+            }
+        ]
+    }

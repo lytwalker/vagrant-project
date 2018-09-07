@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Thorngrove",
+                    "Description": "<b>Name:<\/b> Thorngrove<br\/><b>Longitude:<\/b> 28.5631<br\/><b>Latitude:<\/b> -20.14496<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5631, -20.14496, 0.0]
+                }
+            }
+        ]
+    }

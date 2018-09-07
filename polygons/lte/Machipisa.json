@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Machipisa",
+                    "Description": "<b>Name:<\/b> Machipisa<br\/><b>Longitude:<\/b> 30.9907556<br\/><b>Latitude:<\/b> -17.8907972<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9907556, -17.8907972, 0.0]
+                }
+            }
+        ]
+    }

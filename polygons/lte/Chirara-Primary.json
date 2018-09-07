@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chirara Primary",
+                    "Description": "<b>Name:<\/b> Chirara Primary<br\/><b>Longitude:<\/b> 30.2040389<br\/><b>Latitude:<\/b> -17.3636111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.2040389, -17.3636111, 0.0]
+                }
+            }
+        ]
+    }

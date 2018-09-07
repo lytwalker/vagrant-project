@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Richmond",
+                    "Description": "<b>Name:<\/b> Richmond<br\/><b>Longitude:<\/b> 28.57625<br\/><b>Latitude:<\/b> -20.11173<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.57625, -20.11173, 0.0]
+                }
+            }
+        ]
+    }

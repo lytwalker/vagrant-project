@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Tafara",
+                    "Description": "<b>Name:<\/b> Tafara<br\/><b>Longitude:<\/b> 31.206916<br\/><b>Latitude:<\/b> -17.834847<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.206916, -17.834847, 0.0]
+                }
+            }
+        ]
+    }

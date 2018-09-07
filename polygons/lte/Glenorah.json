@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Glenorah",
+                    "Description": "<b>Name:<\/b> Glenorah<br\/><b>Longitude:<\/b> 30.979276<br\/><b>Latitude:<\/b> -17.903128<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.979276, -17.903128, 0.0]
+                }
+            }
+        ]
+    }

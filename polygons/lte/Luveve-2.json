@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Luveve 2",
+                    "Description": "<b>Name:<\/b> Luveve 2<br\/><b>Longitude:<\/b> 28.51037<br\/><b>Latitude:<\/b> -20.10977<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.51037, -20.10977, 0.0]
+                }
+            }
+        ]
+    }

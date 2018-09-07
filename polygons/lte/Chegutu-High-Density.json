@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chegutu High Density",
+                    "Description": "<b>Name:<\/b> Chegutu High Density<br\/><b>Longitude:<\/b> 30.1295889<br\/><b>Latitude:<\/b> -18.1122389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.1295889, -18.1122389, 0.0]
+                }
+            }
+        ]
+    }

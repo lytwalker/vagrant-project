@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Sisk 2",
+                    "Description": "<b>Name:<\/b> Sisk 2<br\/><b>Longitude:<\/b> 30.8082611<br\/><b>Latitude:<\/b> -20.0851694<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.8082611, -20.0851694, 0.0]
+                }
+            }
+        ]
+    }

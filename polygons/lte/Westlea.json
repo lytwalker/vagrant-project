@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Westlea",
+                    "Description": "<b>Name:<\/b> Westlea<br\/><b>Longitude:<\/b> 30.97778<br\/><b>Latitude:<\/b> -17.819725<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.97778, -17.819725, 0.0]
+                }
+            }
+        ]
+    }

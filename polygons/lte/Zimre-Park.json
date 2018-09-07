@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Zimre Park",
+                    "Description": "<b>Name:<\/b> Zimre Park<br\/><b>Longitude:<\/b> 31.205983<br\/><b>Latitude:<\/b> -17.865014<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.205983, -17.865014, 0.0]
+                }
+            }
+        ]
+    }

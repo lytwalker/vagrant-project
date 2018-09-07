@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "NUST",
+                    "Description": "<b>Name:<\/b> NUST<br\/><b>Longitude:<\/b> 28.64414<br\/><b>Latitude:<\/b> -20.1657<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.64414, -20.1657, 0.0]
+                }
+            }
+        ]
+    }

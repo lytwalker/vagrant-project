@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Suburbs",
+                    "Description": "<b>Name:<\/b> Suburbs<br\/><b>Longitude:<\/b> 28.60035<br\/><b>Latitude:<\/b> -20.15997<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.60035, -20.15997, 0.0]
+                }
+            }
+        ]
+    }

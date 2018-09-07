@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chiwaridzo",
+                    "Description": "<b>Name:<\/b> Chiwaridzo<br\/><b>Longitude:<\/b> 31.36315<br\/><b>Latitude:<\/b> -17.3299389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.36315, -17.3299389, 0.0]
+                }
+            }
+        ]
+    }

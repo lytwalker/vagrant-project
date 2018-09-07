@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Sakubva 2",
+                    "Description": "<b>Name:<\/b> Sakubva 2<br\/><b>Longitude:<\/b> 32.6356389<br\/><b>Latitude:<\/b> -18.9930278<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.6356389, -18.9930278, 0.0]
+                }
+            }
+        ]
+    }

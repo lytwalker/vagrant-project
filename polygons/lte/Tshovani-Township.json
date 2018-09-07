@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Tshovani Township",
+                    "Description": "<b>Name:<\/b> Tshovani Township<br\/><b>Longitude:<\/b> 31.6800556<br\/><b>Latitude:<\/b> -21.0315694<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.6800556, -21.0315694, 0.0]
+                }
+            }
+        ]
+    }

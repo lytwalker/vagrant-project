@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kelvin Corner",
+                    "Description": "<b>Name:<\/b> Kelvin Corner<br\/><b>Longitude:<\/b> 31.048889<br\/><b>Latitude:<\/b> -17.853056<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.048889, -17.853056, 0.0]
+                }
+            }
+        ]
+    }

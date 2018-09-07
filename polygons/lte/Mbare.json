@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mbare",
+                    "Description": "<b>Name:<\/b> Mbare<br\/><b>Longitude:<\/b> 31.0344444<br\/><b>Latitude:<\/b> -17.8669444<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0344444, -17.8669444, 0.0]
+                }
+            }
+        ]
+    }

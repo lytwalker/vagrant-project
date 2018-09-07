@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chikanga",
+                    "Description": "<b>Name:<\/b> Chikanga<br\/><b>Longitude:<\/b> 32.6408056<br\/><b>Latitude:<\/b> -18.9676667<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.6408056, -18.9676667, 0.0]
+                }
+            }
+        ]
+    }

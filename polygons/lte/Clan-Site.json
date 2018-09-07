@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Clan Site",
+                    "Description": "<b>Name:<\/b> Clan Site<br\/><b>Longitude:<\/b> 29.7961889<br\/><b>Latitude:<\/b> -19.4587194<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.7961889, -19.4587194, 0.0]
+                }
+            }
+        ]
+    }

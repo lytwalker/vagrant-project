@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Bellevue",
+                    "Description": "<b>Name:<\/b> Bellevue<br\/><b>Longitude:<\/b> 28.56598<br\/><b>Latitude:<\/b> -20.21136<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.56598, -20.21136, 0.0]
+                }
+            }
+        ]
+    }

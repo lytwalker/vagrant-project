@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nyamhunga Kariba",
+                    "Description": "<b>Name:<\/b> Nyamhunga Kariba<br\/><b>Longitude:<\/b> 28.845059<br\/><b>Latitude:<\/b> -16.518219<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.845059, -16.518219, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Dzivarasekwa Main",
+                    "Description": "<b>Name:<\/b> Dzivarasekwa Main<br\/><b>Longitude:<\/b> 30.93086<br\/><b>Latitude:<\/b> -17.804895<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.93086, -17.804895, 0.0]
+                }
+            }
+        ]
+    }

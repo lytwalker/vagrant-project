@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gweru Kopje",
+                    "Description": "<b>Name:<\/b> Gweru Kopje<br\/><b>Longitude:<\/b> 29.81501<br\/><b>Latitude:<\/b> -19.46904<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.81501, -19.46904, 0.0]
+                }
+            }
+        ]
+    }

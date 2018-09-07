@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Rujeko",
+                    "Description": "<b>Name:<\/b> Rujeko<br\/><b>Longitude:<\/b> 30.8409167<br\/><b>Latitude:<\/b> -20.0835833<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.8409167, -20.0835833, 0.0]
+                }
+            }
+        ]
+    }

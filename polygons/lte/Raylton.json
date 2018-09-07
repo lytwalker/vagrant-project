@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Raylton",
+                    "Description": "<b>Name:<\/b> Raylton<br\/><b>Longitude:<\/b> 28.5672167<br\/><b>Latitude:<\/b> -20.1692083<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5672167, -20.1692083, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Ascot",
+                    "Description": "<b>Name:<\/b> Ascot<br\/><b>Longitude:<\/b> 29.7938889<br\/><b>Latitude:<\/b> -19.43475<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.7938889, -19.43475, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,30 @@
+body {
+  color: #333;
+}
+
+body, input, button {
+  line-height: 1.4;
+  font: 13px Helvetica,arial,freesans,clean,sans-serif;
+}
+
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+#examples a {
+  text-decoration: underline;
+}
+
+#geocomplete { min-width: 300px}
+
+.map_canvas,.map-canvas { 
+  width: 100%;  height: 100%;   margin: 10px 10px 10px 0;
+  border: 1px solid black;
+}
+
+#multiple li { 
+  cursor: pointer; 
+  text-decoration: underline; 
+}

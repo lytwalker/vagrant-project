@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Gweru Chaplin",
+                    "Description": "<b>Name:<\/b> Gweru Chaplin<br\/><b>Longitude:<\/b> 29.8294806<br\/><b>Latitude:<\/b> -19.4644389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8294806, -19.4644389, 0.0]
+                }
+            }
+        ]
+    }

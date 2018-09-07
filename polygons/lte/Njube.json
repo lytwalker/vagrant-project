@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Njube",
+                    "Description": "<b>Name:<\/b> Njube<br\/><b>Longitude:<\/b> 28.53344<br\/><b>Latitude:<\/b> -20.13525<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.53344, -20.13525, 0.0]
+                }
+            }
+        ]
+    }

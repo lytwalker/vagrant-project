@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mbizo",
+                    "Description": "<b>Name:<\/b> Mbizo<br\/><b>Longitude:<\/b> 29.8515833<br\/><b>Latitude:<\/b> -18.9019167<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8515833, -18.9019167, 0.0]
+                }
+            }
+        ]
+    }

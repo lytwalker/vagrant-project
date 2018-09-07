@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mutare Fidelity",
+                    "Description": "<b>Name:<\/b> Mutare Fidelity<br\/><b>Longitude:<\/b> 32.671306<br\/><b>Latitude:<\/b> -18.97325<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [32.671306, -18.97325, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Norton Katanga",
+                    "Description": "<b>Name:<\/b> Norton Katanga<br\/><b>Longitude:<\/b> 30.66869<br\/><b>Latitude:<\/b> -17.884116<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.66869, -17.884116, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chiredzi 2",
+                    "Description": "<b>Name:<\/b> Chiredzi 2<br\/><b>Longitude:<\/b> 31.6698889<br\/><b>Latitude:<\/b> -21.0463889<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.6698889, -21.0463889, 0.0]
+                }
+            }
+        ]
+    }

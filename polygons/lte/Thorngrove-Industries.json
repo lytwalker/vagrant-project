@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Thorngrove Industries",
+                    "Description": "<b>Name:<\/b> Thorngrove Industries<br\/><b>Longitude:<\/b> 28.560625<br\/><b>Latitude:<\/b> -20.1526722<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.560625, -20.1526722, 0.0]
+                }
+            }
+        ]
+    }

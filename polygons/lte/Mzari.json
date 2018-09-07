@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mzari",
+                    "Description": "<b>Name:<\/b> Mzari<br\/><b>Longitude:<\/b> 30.17505<br\/><b>Latitude:<\/b> -17.3658306<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.17505, -17.3658306, 0.0]
+                }
+            }
+        ]
+    }

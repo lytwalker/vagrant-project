@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chipadze 2",
+                    "Description": "<b>Name:<\/b> Chipadze 2<br\/><b>Longitude:<\/b> 31.35067<br\/><b>Latitude:<\/b> -17.322696<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.35067, -17.322696, 0.0]
+                }
+            }
+        ]
+    }

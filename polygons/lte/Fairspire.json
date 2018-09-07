@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Fairspire",
+                    "Description": "<b>Name:<\/b> Fairspire<br\/><b>Longitude:<\/b> 28.58583<br\/><b>Latitude:<\/b> -20.17296<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.58583, -20.17296, 0.0]
+                }
+            }
+        ]
+    }

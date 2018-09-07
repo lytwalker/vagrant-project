@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "ZESA Metering",
+                    "Description": "<b>Name:<\/b> ZESA Metering<br\/><b>Longitude:<\/b> 31.031954<br\/><b>Latitude:<\/b> -17.839378<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.031954, -17.839378, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hatcliff 1 Primary School",
+                    "Description": "<b>Name:<\/b> Hatcliff 1 Primary School<br\/><b>Longitude:<\/b> 31.10874<br\/><b>Latitude:<\/b> -17.69002<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.10874, -17.69002, 0.0]
+                }
+            }
+        ]
+    }

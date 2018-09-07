@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Donnington 2",
+                    "Description": "<b>Name:<\/b> Donnington 2<br\/><b>Longitude:<\/b> 28.5617222<br\/><b>Latitude:<\/b> -20.1818056<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.5617222, -20.1818056, 0.0]
+                }
+            }
+        ]
+    }

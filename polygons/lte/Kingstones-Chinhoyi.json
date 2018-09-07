@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kingstones Chinhoyi",
+                    "Description": "<b>Name:<\/b> Kingstones Chinhoyi<br\/><b>Longitude:<\/b> 30.1944<br\/><b>Latitude:<\/b> -17.35869<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.1944, -17.35869, 0.0]
+                }
+            }
+        ]
+    }

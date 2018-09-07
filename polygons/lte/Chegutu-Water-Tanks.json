@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Chegutu Water Tanks",
+                    "Description": "<b>Name:<\/b> Chegutu Water Tanks<br\/><b>Longitude:<\/b> 30.1249352<br\/><b>Latitude:<\/b> -18.1241858<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.1249352, -18.1241858, 0.0]
+                }
+            }
+        ]
+    }

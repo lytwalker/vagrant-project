@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Tshovani 3",
+                    "Description": "<b>Name:<\/b> Tshovani 3<br\/><b>Longitude:<\/b> 31.6870056<br\/><b>Latitude:<\/b> -21.0217528<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.6870056, -21.0217528, 0.0]
+                }
+            }
+        ]
+    }

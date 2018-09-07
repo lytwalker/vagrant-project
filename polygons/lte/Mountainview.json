@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mountainview",
+                    "Description": "<b>Name:<\/b> Mountainview<br\/><b>Longitude:<\/b> 28.50643<br\/><b>Latitude:<\/b> -20.12723<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.50643, -20.12723, 0.0]
+                }
+            }
+        ]
+    }

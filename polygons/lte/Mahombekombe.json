@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mahombekombe",
+                    "Description": "<b>Name:<\/b> Mahombekombe<br\/><b>Longitude:<\/b> 28.7682528<br\/><b>Latitude:<\/b> -16.5231333<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.7682528, -16.5231333, 0.0]
+                }
+            }
+        ]
+    }

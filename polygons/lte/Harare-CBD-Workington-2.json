@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Harare CBD/Workington 2",
+                    "Description": "<b>Name:<\/b> Harare CBD/Workington 2<br\/><b>Longitude:<\/b> 31.007098<br\/><b>Latitude:<\/b> -17.852087<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.007098, -17.852087, 0.0]
+                }
+            }
+        ]
+    }

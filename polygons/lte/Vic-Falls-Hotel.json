@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Vic Falls Hotel",
+                    "Description": "<b>Name:<\/b> Vic Falls Hotel<br\/><b>Longitude:<\/b> 25.8391028<br\/><b>Latitude:<\/b> -17.9374722<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [25.8391028, -17.9374722, 0.0]
+                }
+            }
+        ]
+    }

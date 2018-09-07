@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Masvingo Rhodene",
+                    "Description": "<b>Name:<\/b> Masvingo Rhodene<br\/><b>Longitude:<\/b> 30.82262<br\/><b>Latitude:<\/b> -20.06011<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.82262, -20.06011, 0.0]
+                }
+            }
+        ]
+    }

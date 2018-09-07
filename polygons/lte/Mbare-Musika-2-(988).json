@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mbare Musika 2 (988)",
+                    "Description": "<b>Name:<\/b> Mbare Musika 2 (988)<br\/><b>Longitude:<\/b> 31.0398889<br\/><b>Latitude:<\/b> -17.8626111<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0398889, -17.8626111, 0.0]
+                }
+            }
+        ]
+    }

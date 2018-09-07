@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Throgmorton",
+                    "Description": "<b>Name:<\/b> Throgmorton<br\/><b>Longitude:<\/b> 31.047083<br\/><b>Latitude:<\/b> -17.827528<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.047083, -17.827528, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Aspindale 2",
+                    "Description": "<b>Name:<\/b> Aspindale 2<br\/><b>Longitude:<\/b> 30.9661111<br\/><b>Latitude:<\/b> -17.8682222<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.9661111, -17.8682222, 0.0]
+                }
+            }
+        ]
+    }

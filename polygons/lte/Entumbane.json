@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Entumbane",
+                    "Description": "<b>Name:<\/b> Entumbane<br\/><b>Longitude:<\/b> 28.54329<br\/><b>Latitude:<\/b> -20.12036<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.54329, -20.12036, 0.0]
+                }
+            }
+        ]
+    }

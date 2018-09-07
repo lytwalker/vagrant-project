@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kadoma Rimuka",
+                    "Description": "<b>Name:<\/b> Kadoma Rimuka<br\/><b>Longitude:<\/b> 29.8842222<br\/><b>Latitude:<\/b> -18.3433889<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8842222, -18.3433889, 0.0]
+                }
+            }
+        ]
+    }

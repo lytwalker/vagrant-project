@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Redcliff",
+                    "Description": "<b>Name:<\/b> Redcliff<br\/><b>Longitude:<\/b> 29.767917<br\/><b>Latitude:<\/b> -19.020667<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.767917, -19.020667, 0.0]
+                }
+            }
+        ]
+    }

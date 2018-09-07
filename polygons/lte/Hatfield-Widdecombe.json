@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Hatfield Widdecombe",
+                    "Description": "<b>Name:<\/b> Hatfield Widdecombe<br\/><b>Longitude:<\/b> 31.11747<br\/><b>Latitude:<\/b> -17.878924<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.11747, -17.878924, 0.0]
+                }
+            }
+        ]
+    }

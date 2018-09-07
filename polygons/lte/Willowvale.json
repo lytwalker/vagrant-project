@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Willowvale",
+                    "Description": "<b>Name:<\/b> Willowvale<br\/><b>Longitude:<\/b> 30.99603<br\/><b>Latitude:<\/b> -17.878035<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.99603, -17.878035, 0.0]
+                }
+            }
+        ]
+    }

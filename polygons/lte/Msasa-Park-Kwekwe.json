@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Msasa Park Kwekwe",
+                    "Description": "<b>Name:<\/b> Msasa Park Kwekwe<br\/><b>Longitude:<\/b> 29.8338611<br\/><b>Latitude:<\/b> -18.9465278<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8338611, -18.9465278, 0.0]
+                }
+            }
+        ]
+    }

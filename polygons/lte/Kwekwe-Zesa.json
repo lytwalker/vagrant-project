@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Kwekwe Zesa",
+                    "Description": "<b>Name:<\/b> Kwekwe Zesa<br\/><b>Longitude:<\/b> 29.8153333<br\/><b>Latitude:<\/b> -18.9261389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.8153333, -18.9261389, 0.0]
+                }
+            }
+        ]
+    }

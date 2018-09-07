@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Northend 1",
+                    "Description": "<b>Name:<\/b> Northend 1<br\/><b>Longitude:<\/b> 28.58984<br\/><b>Latitude:<\/b> -20.12858<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.58984, -20.12858, 0.0]
+                }
+            }
+        ]
+    }

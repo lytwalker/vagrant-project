@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "St Marys 2",
+                    "Description": "<b>Name:<\/b> St Marys 2<br\/><b>Longitude:<\/b> 31.0377642<br\/><b>Latitude:<\/b> -17.9958399<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0377642, -17.9958399, 0.0]
+                }
+            }
+        ]
+    }

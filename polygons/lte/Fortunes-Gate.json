@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Fortunes Gate",
+                    "Description": "<b>Name:<\/b> Fortunes Gate<br\/><b>Longitude:<\/b> 28.6325<br\/><b>Latitude:<\/b> -20.208972<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.6325, -20.208972, 0.0]
+                }
+            }
+        ]
+    }

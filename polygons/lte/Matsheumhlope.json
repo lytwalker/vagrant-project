@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Matsheumhlope",
+                    "Description": "<b>Name:<\/b> Matsheumhlope<br\/><b>Longitude:<\/b> 28.63997<br\/><b>Latitude:<\/b> -20.18674<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.63997, -20.18674, 0.0]
+                }
+            }
+        ]
+    }

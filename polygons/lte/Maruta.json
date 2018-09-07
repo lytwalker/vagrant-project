@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Maruta",
+                    "Description": "<b>Name:<\/b> Maruta<br\/><b>Longitude:<\/b> 31.0679936<br\/><b>Latitude:<\/b> -17.8891543<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.0679936, -17.8891543, 0.0]
+                }
+            }
+        ]
+    }

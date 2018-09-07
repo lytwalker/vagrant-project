@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Khumalo",
+                    "Description": "<b>Name:<\/b> Khumalo<br\/><b>Longitude:<\/b> 28.61528<br\/><b>Latitude:<\/b> -20.14779<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [28.61528, -20.14779, 0.0]
+                }
+            }
+        ]
+    }

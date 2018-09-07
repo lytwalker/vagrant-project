@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Marimba",
+                    "Description": "<b>Name:<\/b> Marimba<br\/><b>Longitude:<\/b> 30.941925<br\/><b>Latitude:<\/b> -17.873274<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.941925, -17.873274, 0.0]
+                }
+            }
+        ]
+    }

@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Mkoba South",
+                    "Description": "<b>Name:<\/b> Mkoba South<br\/><b>Longitude:<\/b> 29.7715833<br\/><b>Latitude:<\/b> -19.4680278<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [29.7715833, -19.4680278, 0.0]
+                }
+            }
+        ]
+    }

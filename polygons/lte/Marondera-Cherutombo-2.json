@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Marondera Cherutombo 2",
+                    "Description": "<b>Name:<\/b> Marondera Cherutombo 2<br\/><b>Longitude:<\/b> 31.5435<br\/><b>Latitude:<\/b> -18.2231389<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.5435, -18.2231389, 0.0]
+                }
+            }
+        ]
+    }

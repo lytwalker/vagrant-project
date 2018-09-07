@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Good Hope",
+                    "Description": "<b>Name:<\/b> Good Hope<br\/><b>Longitude:<\/b> 30.95558<br\/><b>Latitude:<\/b> -17.741085<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.95558, -17.741085, 0.0]
+                }
+            }
+        ]
+    }

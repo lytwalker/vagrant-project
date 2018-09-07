@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Knowe 2",
+                    "Description": "<b>Name:<\/b> Knowe 2<br\/><b>Longitude:<\/b> 30.6596<br\/><b>Latitude:<\/b> -17.9191<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.6596, -17.9191, 0.0]
+                }
+            }
+        ]
+    }

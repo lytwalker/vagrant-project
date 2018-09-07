@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Phoenix",
+                    "Description": "<b>Name:<\/b> Phoenix<br\/><b>Longitude:<\/b> 31.07772<br\/><b>Latitude:<\/b> -17.869864<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [31.07772, -17.869864, 0.0]
+                }
+            }
+        ]
+    }

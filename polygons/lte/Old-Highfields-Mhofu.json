@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Old Highfields Mhofu",
+                    "Description": "<b>Name:<\/b> Old Highfields Mhofu<br\/><b>Longitude:<\/b> 30.98403<br\/><b>Latitude:<\/b> -17.88567<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.98403, -17.88567, 0.0]
+                }
+            }
+        ]
+    }

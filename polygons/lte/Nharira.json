@@ -1,0 +1,16 @@
+    {
+        "type": "FeatureCollection",    
+        "features": [{
+                "type": "Feature",
+                "properties": {
+                    "Name": "Nharira",
+                    "Description": "<b>Name:<\/b> Nharira<br\/><b>Longitude:<\/b> 30.6949333<br\/><b>Latitude:<\/b> -17.8860306<br\/><b>Altitude:<\/b> 983<br\/>",
+                    "Icon": ""
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [30.6949333, -17.8860306, 0.0]
+                }
+            }
+        ]
+    }
